@@ -1,0 +1,17 @@
+.hero-image {
+    height: 85vh;           /* large screen height */
+    object-fit: cover;      /* crop and center nicely */
+    border-radius: 10px;    /* soft corner */
+  }
+  .carousel-image {
+    height: 300px;
+    object-fit: contain;
+  }
+  
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  h1, h2, h3 {
+    font-family: 'Pacifico', cursive;
+  }
+  
